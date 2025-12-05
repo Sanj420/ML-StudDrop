@@ -1,2 +1,2 @@
-# ML---StudDrop
+# ML-StudDrop
 Student Dropout Prediciton
